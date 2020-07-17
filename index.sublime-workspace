@@ -1,0 +1,329 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"tra",
+				"transform\tproperty"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"border",
+				"border-color\tproperty"
+			],
+			[
+				"alig",
+				"vertical-align\tproperty"
+			],
+			[
+				"margin-",
+				"margin-bottom\tproperty"
+			],
+			[
+				"bl",
+				"black"
+			],
+			[
+				"bor",
+				"border-style\tproperty"
+			],
+			[
+				"ps",
+				"position\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"ds",
+				"display\tproperty"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"tit",
+				"titulo-principal"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"tran",
+				"transform\tproperty"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"i",
+				"italic\tfont-style"
+			],
+			[
+				"text-de",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"conato",
+				"Contato"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"bloc",
+				"block\tdisplay"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"b",
+				"bottom\tvertical-align"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"inl",
+				"inline\tdisplay"
+			],
+			[
+				"st",
+				"stylesheet"
+			],
+			[
+				"stly",
+				"font-style\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/diogo/OneDrive/Projetos Externos/PaginaEscritorioAdvocacia/page/index.html",
+		"/C/_Projetos/Web/HTML e CSS/contatos.html",
+		"/C/_Projetos/Web/HTML e CSS/style.css",
+		"/C/_Projetos/Web/HTML e CSS/index.html",
+		"/C/Users/diogo/OneDrive/Projetos Externos/PaginaEscritorioAdvocacia/page/style.css",
+		"/C/_Projetos/Web/HTML e CSS/produtos.html",
+		"/C/Users/diogo/OneDrive/Projetos Externos/PaginaEscritorioAdvocacia/page/sobre.html",
+		"/C/Users/diogo/OneDrive/Projetos Externos/PaginaEscritorioAdvocacia/page/contato.html",
+		"/C/Users/diogo/OneDrive/Projetos Externos/MinhaPáginaPessoal/index.html",
+		"/C/Users/diogo/OneDrive/Projetos Externos/MinhaPáginaPessoal/style.css",
+		"/C/Users/diogo/OneDrive/Projetos Externos/MinhaPáginaPessoal/meus-projetos.html",
+		"/C/Users/diogo/OneDrive/Projetos Externos/MinhaPáginaPessoal/habilidades.html",
+		"/C/Users/diogo/OneDrive/Projetos Externos/MinhaPáginaPessoal/formacao.html",
+		"/C/Users/diogo/OneDrive/Projetos Externos/MinhaPáginaPessoal/redes-sociais.html",
+		"/C/_Projetos/Web/HTML e CSS/style-home.css",
+		"/C/_Projetos/Web/HTML e CSS/contato.html",
+		"/C/_Projetos/Web/HTML e CSS/produtos.css",
+		"/C/_Projetos/Web/DesenvolvimentoWebCompleto/1-PrimeiroProjeto/contato.html",
+		"/C/_Projetos/Web/DesenvolvimentoWebCompleto/1-PrimeiroProjeto/javascript/helloWorld.js",
+		"/C/_Projetos/Web/DesenvolvimentoWebCompleto/1-PrimeiroProjeto/index.html",
+		"/C/_Projetos/Web/DesenvolvimentoWebCompleto/1 - PrimeiroProjeto/index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
